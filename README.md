@@ -1,4 +1,6 @@
 # modulo
+![](imgs/overview.png "modulo")
+
 
 ## Quickstart
 To train `modulo` on the SHAPES dataset, first run the preprocessor:
@@ -11,3 +13,4 @@ This step will create the `pkl` file needed by the trainer. Then, simply run `py
 ## Modules and Schema
 If you would like to extend the existing module library (in `modules.py`), please add a PR. Same story for adding different task schemas.
 
+![](imgs/heatmap.png "modulo")
