@@ -88,7 +88,7 @@ tornado==5.0
 tqdm==4.19.7
 traitlets==4.3.2
 ujson==1.35
-urllib3==1.22
+urllib3==1.26.5
 visdom==0.1.7
 wcwidth==0.1.7
 webencodings==0.5.1
